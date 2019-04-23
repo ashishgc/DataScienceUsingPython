@@ -1,2 +1,2 @@
 # DataScienceUsingPython
-![image.jpg](Images/Python for Data Science.jpg)
+![image.png](Images/DS1.png)
